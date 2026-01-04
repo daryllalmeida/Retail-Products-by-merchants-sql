@@ -32,5 +32,5 @@ Added an order-level metric: % Orders Fully Fulfilled (found = ordered) to revea
 
 Identified high-risk SKUs with frequent OOS and inconsistent availability patterns (suggesting stale merchant inventory feeds).
 
-Outcome
+**Outcome**
 Created a clear prioritization view for Ops: focus on store/city combos with low Found Rate, high OOS%, and low fully-fulfilled order %, plus top “risk SKUs” driving the most customer pain.
